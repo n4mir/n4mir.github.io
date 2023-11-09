@@ -1,0 +1,1256 @@
+Uri: https://bazookacandybrandsinternational.com/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/about-us/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/comments/feed/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bazookacandybrandsinternational.com/contact-us/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/feed/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bazookacandybrandsinternational.com/juicy-drop-chews-nutritional-data/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\juicy-drop-chews-nutritional-data\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/news/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\news\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/bazooka/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\bazooka\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/big-baby-pop/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\big-baby-pop\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/juicy-drop/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\juicy-drop\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/mega-mouth/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\mega-mouth\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/push-pop/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\push-pop\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/our-brands/ring-pop/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\our-brands\ring-pop\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/push-pop-product-information/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\push-pop-product-information\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/terms/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\terms\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/wow-activation/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wow-activation\index.htm
+Content Type: text/html
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/bazooka-map/public/bundle.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\bazooka-map\public\bundle.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/bazooka-map/public/miniature.earth.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\bazooka-map\public\miniature.earth.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/bazooka-map/public/styles.css
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\bazooka-map\public\styles.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css?ver=2.2.0
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\gp-premium\blog\functions\css\featured-images.min.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\gp-premium\general\js\smooth-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\css\frontend\classic\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.8.4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.8.4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.3.1
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\themes\generatepress\assets\css\components\widget-areas.min.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.3.1
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\themes\generatepress\assets\js\menu.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/Bazooka-Core-Swim-Campaign_v2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\Bazooka-Core-Swim-Campaign_v2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/Bazooka-To-go-Cup-Clip-Strip_v3.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\Bazooka-To-go-Cup-Clip-Strip_v3.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp-trimmed1.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp-trimmed1.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp.mp4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp.mp4
+Content Type: video/mp4
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_20_sour_pack_english_for_me.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_20_sour_pack_english_for_me.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_background_header.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_background_header.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_cdu.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_cdu.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_strawberry.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_strawberry.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_strawberry.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_strawberry.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_sweet_sour_cdu.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_sweet_sour_cdu.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/bbp_sweet_sour_raspberry.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\bbp_sweet_sour_raspberry.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/big_baby_pop_sweet_n_sour_animation_lowq.v1-1.mp4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\big_baby_pop_sweet_n_sour_animation_lowq.v1-1.mp4
+Content Type: video/mp4
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/cropped-apple-touch-icon-120x120-1-180x180.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\cropped-apple-touch-icon-120x120-1-180x180.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/cropped-apple-touch-icon-120x120-1-192x192.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\cropped-apple-touch-icon-120x120-1-192x192.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/cropped-apple-touch-icon-120x120-1-32x32.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\cropped-apple-touch-icon-120x120-1-32x32.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/engaging.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\engaging.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/envelop.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\envelop.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/eu_tppp_blue_cdu_left.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\eu_tppp_blue_cdu_left.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/eye.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\eye.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/flip_n_dip_push_pop_v2_powder_change_lowq.v1-1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\flip_n_dip_push_pop_v2_powder_change_lowq.v1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/flip_n_dip_push_pop_v2_powder_change_lowq.v1-1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\flip_n_dip_push_pop_v2_powder_change_lowq.v1-1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/generic_background_tv.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\generic_background_tv.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/HamburgerFontBF.eot
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\HamburgerFontBF.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/HamburgerFontBF.eot?
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\HamburgerFontBF-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/HamburgerFontBF.ttf
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\HamburgerFontBF.ttf
+Content Type: font/ttf
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/HamburgerFontBF.woff
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\HamburgerFontBF.woff
+Content Type: font/woff
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/HamburgerFontBF.woff2
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\HamburgerFontBF.woff2
+Content Type: font/woff2
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/jd.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\jd.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/jdg_pouch_eu_strawberry_v2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\jdg_pouch_eu_strawberry_v2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/JDP-Gravity-Feed-Concept.v1.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\JDP-Gravity-Feed-Concept.v1.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/jdp_background_header.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\jdp_background_header.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/jdp_jd_factor_30_hd_english_for_me_jdg_pack_.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\jdp_jd_factor_30_hd_english_for_me_jdg_pack_.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/JD_KANGAROO-FDU.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\JD_KANGAROO-FDU.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop.mp4
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop.mp4
+Content Type: video/mp4
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_chew_animation_lowq.v1-1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_chew_animation_lowq.v1-1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_chew_animation_lowq.v1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_chew_animation_lowq.v1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_gummies_animation_lowq.v1-1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_gummies_animation_lowq.v1-1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_gummies_animation_lowq.v1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_gummies_animation_lowq.v1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_pop_animation_lowq.v1-1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_pop_animation_lowq.v1-1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/juicy_drop_pop_animation_lowq.v1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\juicy_drop_pop_animation_lowq.v1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/logo.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\logo.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/logo2x.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\logo2x.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mega_mouth_animation_lowq.v1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mega_mouth_animation_lowq.v1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mega_mouth_animation_lowq.v1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mega_mouth_animation_lowq.v1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/Metal-FDU-HALF_unfilled_v2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\Metal-FDU-HALF_unfilled_v2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/me_mm_std_refresh_cdu.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\me_mm_std_refresh_cdu.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/MM-callout2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\MM-callout2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mm.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mm.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mm_background_header.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mm_background_header.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mm_units_std_refresh_cola.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mm_units_std_refresh_cola.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mm_units_std_refresh_rasp.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mm_units_std_refresh_rasp.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/mm_units_std_refresh_rasp.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\mm_units_std_refresh_rasp.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/new_pp_dipperz_cdu_front_v1.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\new_pp_dipperz_cdu_front_v1.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/npm_mega_pp_cdu_angle_1.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\npm_mega_pp_cdu_angle_1.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/our-brands-bottom.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\our-brands-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/our-brands.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\our-brands.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/phone.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/post_dm3_eu_tppp_blue_unit_angle_v2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\post_dm3_eu_tppp_blue_unit_angle_v2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/post_dm3_jdg_cdu_left.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\post_dm3_jdg_cdu_left.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/post_dm3_jdp_cdu_ra_v4.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\post_dm3_jdp_cdu_ra_v4.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/post_dm3_jdp_units_cola_v3.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\post_dm3_jdp_units_cola_v3.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/post_dm3_jdp_units_cola_v3.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\post_dm3_jdp_units_cola_v3.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/PP-POS-GRAVITY-FEED-2018-V2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\PP-POS-GRAVITY-FEED-2018-V2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_background_header2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_background_header2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_dipperz_unit_v1.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_dipperz_unit_v1.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_mega_duo_br_bc_5_closed.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_mega_duo_br_bc_5_closed.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_std_cdu-210x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_std_cdu-210x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_std_cdu.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_std_cdu.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_std_strawberry.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_std_strawberry.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_std_strawberry.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_std_strawberry.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/pp_std_strawberry_hr.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\pp_std_strawberry_hr.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/printer.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\printer.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop_animation_lowq.v1-1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop_animation_lowq.v1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop_flip_cdu.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop_flip_cdu.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop_flip_cola_open.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop_flip_cola_open.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop_long.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop_long.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/push_pop_long.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\push_pop_long.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rattlerz_lets_loose_30_hd_english.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rattlerz_lets_loose_30_hd_english.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/RP-callout2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\RP-callout2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp_background_header.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp_background_header.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp_cdu.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp_cdu.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp_raspberry.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp_raspberry.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp_raspberry.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp_raspberry.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/rp_strawberry.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\rp_strawberry.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/siema.min_.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\siema.min_.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/sliderz_cdu_box.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\sliderz_cdu_box.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/sliderz_soda-2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\sliderz_soda-2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/triple_power_push_pop_animation_lowq.v1-1.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\triple_power_push_pop_animation_lowq.v1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/triple_power_push_pop_animation_lowq.v1-1.webm
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\triple_power_push_pop_animation_lowq.v1-1.webm
+Content Type: video/webm
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/trolley.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\trolley.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/winner.svg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\winner.svg
+Content Type: image/svg+xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2021/06/wow-activation2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2021\06\wow-activation2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-1127x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-1127x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-1503x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-1503x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-220x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-220x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-752x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-752x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-768x1046.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\120g-RATTLERZ-FRUITY-CDU_ANGLE-1_v1-e1667322519544-768x1046.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-168x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-168x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-572x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-572x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-768x1374.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-768x1374.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-859x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1-859x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\40G-RATTLERZ-SOUR-BAG_EURO-HOLE.v1.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Bazooka-Chew-Bars-ALL-1024x625.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Bazooka-Chew-Bars-ALL-1024x625.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Bazooka-Chew-Bars-ALL-1536x938.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Bazooka-Chew-Bars-ALL-1536x938.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Bazooka-Chew-Bars-ALL-2048x1251.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Bazooka-Chew-Bars-ALL-2048x1251.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Bazooka-Chew-Bars-ALL-300x183.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Bazooka-Chew-Bars-ALL-300x183.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Bazooka-Chew-Bars-ALL-768x469.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Bazooka-Chew-Bars-ALL-768x469.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-1024x833.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-1024x833.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-1536x1249.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-1536x1249.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-300x244.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-300x244.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-768x625.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608-768x625.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Chew-Bar-Tutti-Frutti-CDU-V2-e1666720142608.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-291x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-291x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-768x793.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-768x793.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-992x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257-992x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-pack-CDU-V1-1-e1666719455257.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-272x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-272x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-768x847.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-768x847.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-929x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592-929x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\EU-Wallet-Retro-Tutti-Frutti-Unit-V1-1-e1667317156592.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-CDU-Angle-1024x808.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-CDU-Angle-1024x808.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-CDU-Angle-300x237.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-CDU-Angle-300x237.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-CDU-Angle-768x606.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-CDU-Angle-768x606.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-CDU-Angle.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-CDU-Angle.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-POUCH-RED-1024x751.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-POUCH-RED-1024x751.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-POUCH-RED-300x220.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-POUCH-RED-300x220.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-POUCH-RED-768x563.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-POUCH-RED-768x563.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/10/JD-Chews-UK-POUCH-RED.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\10\JD-Chews-UK-POUCH-RED.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-1094x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-1094x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-1459x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-1459x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-214x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-214x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-730x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-730x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-768x1078.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\120G-BAZOOKA-CHEWZ-CDU_ANGLE_V2-e1669734775212-768x1078.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-1090x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-1090x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-1453x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-1453x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-213x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-213x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-726x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-726x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-768x1083.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\140G-BZKA-MIX-UPZ-CDU_ANGLE-1_v1-768x1083.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-194x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-194x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-661x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-661x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-768x1190.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-768x1190.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-991x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1-991x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\45G-BZKA-MIX-UPZ-BAG_EU_EURO-HOLE_V1-1.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-1080x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-1080x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-1440x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-1440x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-211x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-211x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-720x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-720x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-768x1093.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1-768x1093.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BAZOOKA-CHEWZ-SHARE-BAG-EU_EURO-HOLE_V1.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/BCBI-Header-product-fan-V2b.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\BCBI-Header-product-fan-V2b.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Big-Baby-Pop-Product-group-2-1024x411.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Big-Baby-Pop-Product-group-2-1024x411.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Big-Baby-Pop-Product-group-2-1536x617.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Big-Baby-Pop-Product-group-2-1536x617.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Big-Baby-Pop-Product-group-2-300x120.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Big-Baby-Pop-Product-group-2-300x120.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Big-Baby-Pop-Product-group-2-768x308.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Big-Baby-Pop-Product-group-2-768x308.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Big-Baby-Pop-Product-group-2.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Big-Baby-Pop-Product-group-2.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-Bazooka4-1024x411.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-Bazooka4-1024x411.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-Bazooka4-1536x617.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-Bazooka4-1536x617.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-Bazooka4-300x120.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-Bazooka4-300x120.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-Bazooka4-768x308.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-Bazooka4-768x308.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-Bazooka4.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-Bazooka4.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-JD-1024x411.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-JD-1024x411.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-JD-1536x617.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-JD-1536x617.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-JD-300x121.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-JD-300x121.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-JD-768x309.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-JD-768x309.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-header-JD.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-header-JD.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Brand-page-headers-Bazooka.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Brand-page-headers-Bazooka.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-106x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-106x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-361x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-361x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-541x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-541x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-722x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-722x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-768x2179.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746-768x2179.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Raspberry.v1-e1667475857746.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Raspberry.v1-e1667475857746.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Shrink-update-CDU-V1-225x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Shrink-update-CDU-V1-225x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Shrink-update-CDU-V1-768x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Shrink-update-CDU-V1-768x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-FLIP-N-DIP-Shrink-update-CDU-V1.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-FLIP-N-DIP-Shrink-update-CDU-V1.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-1063x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-1063x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-1417x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-1417x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-208x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-208x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-709x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-709x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-768x1110.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1-768x1110.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-REBRAND-Sharebag-BAG_V1-01.v1.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-1343x1536.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-1343x1536.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-1791x2048.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-1791x2048.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-262x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-262x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-768x878.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-768x878.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-896x1024.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\EU-JD-BLASTS-Sharebag-NPMP-CDU_Angle-1_v1-896x1024.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-CDU_Angle-1_v3-1024x831.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-CDU_Angle-1_v3-1024x831.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-CDU_Angle-1_v3-1536x1246.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-CDU_Angle-1_v3-1536x1246.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-CDU_Angle-1_v3-2048x1662.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-CDU_Angle-1_v3-2048x1662.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-CDU_Angle-1_v3-300x243.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-CDU_Angle-1_v3-300x243.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-CDU_Angle-1_v3-768x623.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-CDU_Angle-1_v3-768x623.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front-269x300.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front-269x300.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front-768x857.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front-768x857.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front.png
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\JDG-Dipperz-Rasp-Pot-only_Closed_wrapped_front.png
+Content Type: image/png
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Push-Pop-product-group-1024x411.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Push-Pop-product-group-1024x411.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Push-Pop-product-group-1536x617.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Push-Pop-product-group-1536x617.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Push-Pop-product-group-300x120.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Push-Pop-product-group-300x120.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Push-Pop-product-group-768x308.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Push-Pop-product-group-768x308.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2022/11/Push-Pop-product-group.webp
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2022\11\Push-Pop-product-group.webp
+Content Type: image/webp
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-1086x1536.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-1086x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-1449x2048.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-1449x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-212x300.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-724x1024.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-724x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-768x1086.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-768x1086.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/2023/01/JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\2023\01\JD-Dipperz-Trade-Ad-new-concepts-02.v2-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-1109.css?ver=1692158568
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-1109.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-1110.css?ver=1692172212
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-1110.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-1111.css?ver=1692162553
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-1111.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-1128.css?ver=1692176043
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-1128.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-1130.css?ver=1692163136
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-1130.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-7.css?ver=1692155257
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-7.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-705.css?ver=1692165412
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-705.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-734.css?ver=1692155498
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-734.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-786.css?ver=1692160876
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-786.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-800.css?ver=1692156026
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-800.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-content/uploads/generateblocks/style-812.css?ver=1692156248
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-content\uploads\generateblocks\style-812.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bazookacandybrandsinternational.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fjuicy-drop-chews-nutritional-data%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fjuicy-drop-chews-nutritional-data%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fnews%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fnews%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fbazooka%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fbazooka%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fbig-baby-pop%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fbig-baby-pop%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fjuicy-drop%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fjuicy-drop%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fmega-mouth%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fmega-mouth%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fpush-pop%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fpush-pop%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fring-pop%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Four-brands%2Fring-pop%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fpush-pop-product-information%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fpush-pop-product-information%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fterms%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fterms%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fwow-activation%2F
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbazookacandybrandsinternational.com%2Fwow-activation%2F&format=xml
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1109
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1109
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1110
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1110
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1111
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1111
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1128
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1128
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1130
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1130
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1338
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1338
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1357
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1357
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1367
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1367
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/1385
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\1385
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/705
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\705
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/734
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\734
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/786
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\786
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/800
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\800
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/812
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\812
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://bazookacandybrandsinternational.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.amcharts.com/lib/4/charts.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\lib\4\charts.js
+Content Type: application/x-javascript
+
+Uri: https://www.amcharts.com/lib/4/core.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\lib\4\core.js
+Content Type: application/x-javascript
+
+Uri: https://www.amcharts.com/lib/4/themes/animated.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\lib\4\themes\animated.js
+Content Type: application/x-javascript
+
+Uri: https://www.amcharts.com/lib/4/themes/material.js
+File Name: C:\Downloaded Web Sites\bazookacandybrandsinternational.com\lib\4\themes\material.js
+Content Type: application/x-javascript
+
